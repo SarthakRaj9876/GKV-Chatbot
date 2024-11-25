@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+GKV_Chatbot.egg-info/PKG-INFO
+GKV_Chatbot.egg-info/SOURCES.txt
+GKV_Chatbot.egg-info/dependency_links.txt
+GKV_Chatbot.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
+src/prompt.py
